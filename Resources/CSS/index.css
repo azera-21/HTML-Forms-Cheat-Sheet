@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 10px 0px;
+    letter-spacing: 2px;
+}
+
+th {
+    background-color: lightblue;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+tfoot {
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+.borderless {
+    border: 0px solid white;
+}
+
+table {
+    margin: 0px auto;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+section {
+    margin: 50px 0
+}
+
+footer {
+    margin-top: 80px;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer img {
+    display: block;
+    margin: 0px auto;
+    width: 20%;
+}
+
+span {
+    background-color: bisque;
+    font-family: monospace;
+}
